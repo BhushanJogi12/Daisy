@@ -1,0 +1,6 @@
+2021-Oct-23 14:58:56,842 [main] com.testingshastra.UItests.SignUpPageTests 
+  INFO  Url is launched:https://www.ijmeet.com
+2021-Oct-23 14:58:59,309 [main] com.testingshastra.UItests.SignUpPageTests 
+  INFO  Clicked on Register button
+2021-Oct-23 14:58:59,348 [main] com.testingshastra.util.TestListener 
+  INFO  Test is failed.Taking screenshot

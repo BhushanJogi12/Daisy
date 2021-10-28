@@ -1,0 +1,8 @@
+2021-Oct-23 14:59:36,875 [main] com.testingshastra.UItests.SignUpPageTests 
+  INFO  Url is launched:https://www.ijmeet.com
+2021-Oct-23 14:59:42,193 [main] com.testingshastra.UItests.SignUpPageTests 
+  INFO  Clicked on Register button
+2021-Oct-23 14:59:42,233 [main] com.testingshastra.util.TestListener 
+  INFO  Test is failed.Taking screenshot
+2021-Oct-23 14:59:44,265 [main] com.testingshastra.util.TestListener 
+  ERROR Unable to take screenshot
